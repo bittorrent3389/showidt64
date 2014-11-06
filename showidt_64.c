@@ -11,7 +11,7 @@
 #include <asm/tlbflush.h>
 #include <asm/current.h>
 MODULE_LICENSE("GPL");
-
+//jeremy
 struct desc_ptr idtr;
 int i;
 gate_desc *idt_table2;
